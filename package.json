@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "@sap/eslint-plugin-ui5-jsdocs": "^2.0.5",
-    "@sap/ux-specification": "^1.108.7",
+    "@sap/ux-specification": "^1.108.13",
     "@sapui5/ts-types": "^1.92.2",
     "eslint": "^7.32.0",
     "sqlite3": "^5.0.4"
